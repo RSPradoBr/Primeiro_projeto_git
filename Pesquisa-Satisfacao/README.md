@@ -21,6 +21,7 @@ src="https://github.com/tandpfun/skill-icons/blob/main/icons/GithubActions-Dark.
 <br>
 <br>
 <!--![Static Badge](https://img.shields.io/badge/Aprendendo-Badges-red) ocultado sem uso-->
+
 ![Static Badge](https://img.shields.io/badge/github-Badges?style=social&logo=github&logoColor=black&logoSize=auto) ![Static Badge](https://img.shields.io/badge/Phyton-Badges-brightblack?style=for-the-badge&logo=Python&logoSize=auto)
 <br>
 <br>
