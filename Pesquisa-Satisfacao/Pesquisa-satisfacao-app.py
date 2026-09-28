@@ -11,7 +11,7 @@ qtd_ruim = 0
 
 #Limitador da quantidade de entrevistados
 
-quantidade_entrevistados = 50
+quantidade_entrevistados = 10
 
 #Entrada de dados e classificação das respostas
 
@@ -19,7 +19,9 @@ print("\n===== PESQUISA DE SATISFAÇÃO DO CLIENTE =====")
 print("\nDigite 1-Excelente, 2-Bom, 3-Ruim")
 for i in range(1, quantidade_entrevistados + 1):
     print(f"\nEntrevistado {i}")
-
+    
+    nome = input("Digite o nome: ")
+    idade = int(input("Digite a idade: "))
     opiniao = int(input("Atribua sua satisfação: "))
 
     if opiniao == 1:
